@@ -1,0 +1,12 @@
+{
+"companyName": "dbJocs",
+"productName": "BuscarPareja_",
+"dataUrl": "Html Juego__.data.unityweb",
+"wasmCodeUrl": "Html Juego__.wasm.code.unityweb",
+"wasmFrameworkUrl": "Html Juego__.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
